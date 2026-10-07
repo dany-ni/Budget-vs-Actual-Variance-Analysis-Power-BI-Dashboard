@@ -223,7 +223,7 @@ All variance components are calculated at monthly grain (SUMX over Dim_Date[Mont
 ## Repository Contents
 
 - `budget_actual_generator.py` — Python script that builds the budget and simulates actuals
-- `Budget_Actual.xlsx` — Generated fact tables (budget, actual, drivers) used as the Power BI data source
+- `Budget_Actual.xlsx` — Generated fact tables (budget, actual, drivers, assumptions, cost center) used as the Power BI data source
 - `Budget_Model.xlsx` — Budget built independently in Excel, as a manual cross-check on the Python-generated budget logic
 - `budget_to_actual_bridge.xlsx` — Step lists for the waterfall (bridge) charts
 - `budget_vs_actual.pbix` — Power BI report file
