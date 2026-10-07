@@ -214,19 +214,19 @@ All variance components are calculated at monthly grain (SUMX over Dim_Date[Mont
 
 ## Skills Demonstrated
 
-- **FP&A / Accounting** — Variance analysis (price, rate, volume, usage, efficiency,activity), standard costing, flexed budgeting
+- **FP&A / Accounting** — variance analysis (price, rate, volume, usage, efficiency,activity), standard costing, flexed budgeting
 - **Power BI** — data modeling, DAX, waterfall charts, KPI cards, trend charts
-- **Python (pandas / NumPy)** — Synthetic dataset generation, combining seeded random fluctuation with scripted business events
+- **Python (pandas / NumPy)** — synthetic dataset generation, combining seeded random fluctuation with scripted business events
 - **Excel** — driver-based budget model
 
 
 ## Repository Contents
 
-- `budget_actual_generator.py` — Python script that builds the budget and simulates actuals
-- `Budget_Actual.xlsx` — Generated fact tables (budget, actual, drivers, assumptions, cost center) used as the Power BI data source
-- `Budget_Model.xlsx` — Budget built independently in Excel, as a manual cross-check on the Python-generated budget logic
-- `budget_to_actual_bridge.xlsx` — Step lists for the waterfall (bridge) charts
+- `budget_actual_generator.py` — Python script that builds the budget and simulates actuals; outputs `Budget_Actual.xlsx`.
+- `Budget_Actual.xlsx` — output of `budget_actual_generator.py`; contains fact tables (budget, actual, drivers, cost center, assumptions) used as the Power BI data source
+- `Budget_Model.xlsx` — budget built independently in Excel
+- `budget_to_actual_bridge.xlsx` — step lists for the waterfall (bridge) charts
 - `budget_vs_actual.pbix` — Power BI report file
 - `budget_vs_actual.pdf` — PDF export of the Power BI report
-- `DAX_measures_and_user_defined_function.xlsx` — Export of all DAX measures in the Power BI model
-- `screenshots/` — Dashboard page previews
+- `DAX_measures_and_user_defined_function.xlsx` — export of DAX measures and a user defined function in the Power BI model
+- `screenshots/` — dashboard page previews
