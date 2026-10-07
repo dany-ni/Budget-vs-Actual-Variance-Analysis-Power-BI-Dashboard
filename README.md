@@ -214,10 +214,11 @@ All variance components are calculated at monthly grain (SUMX over Dim_Date[Mont
 
 ## Skills Demonstrated
 
+- **Excel** — driver-based budget model
 - **Power BI** — data modeling, DAX, waterfall charts, KPI cards, trend charts
-- **FP&A / Accounting** — standard costing, Price / Rate / Volume / Usage / Efficiency / Activity Variance analysis, budget construction methodology
+- **FP&A / Accounting** — Variance analysis (price, rate, volume, usage, efficiency,activity), standard costing, flexed budgeting
 - **Python (pandas / NumPy)** — Synthetic dataset generation, combining seeded random fluctuation with scripted business events
-- **Excel** — driver-based budget modeling
+
 
 ## Repository Contents
 
