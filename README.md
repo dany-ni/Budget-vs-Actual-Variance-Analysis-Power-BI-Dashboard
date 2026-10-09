@@ -18,17 +18,23 @@ A Power BI dashboard analyzing budget-to-actual performance for a simulated manu
 
 ## Dashboard Preview
 
-<img src="screenshots/01_executive_summary.png" width="900" alt="Executive Summary page">
+<img src="screenshots/01_executive_summary.png" width="900" alt="Executive Summary">
 
 <img src="screenshots/02_gross_profit_bridge_by_event.png" width="900" alt="Gross Profit Bridge by Event">
 
-<img src="screenshots/03_revenue_overview.png" width="900" alt="Revenue overview">
+<img src="screenshots/03_revenue_overview.png" width="900" alt="Revenue Overview">
 
-<img src="screenshots/04_revenue_driver_analysis.png" width="900" alt="Revenue driver analysis">
+<img src="screenshots/04_revenue_driver_analysis.png" width="900" alt="Revenue Driver Analysis">
 
-<img src="screenshots/05_capacity_efficiency_analysis.png" width="900" alt="Capacity utilization">
+<img src="screenshots/05_raw_materials_overview.png" width="900" alt="Raw Materials Overview">
 
-<img src="screenshots/06_recommendation.png" width="900" alt="Recommendation">
+<img src="screenshots/06_raw_materials_driver_analysis.png" width="900" alt="Raw Materials Driver Analysis">
+
+<img src="screenshots/07_raw_materials_variance_details.png" width="900" alt="Raw Materials Variance Details">
+
+<img src="screenshots/08_capacity_efficiency_analysis.png" width="900" alt="Capacity Utilization">
+
+<img src="screenshots/09_recommendation.png" width="900" alt="Recommendation">
 
 The remaining pages are in the [PDF](budget_vs_actual.pdf).
 
